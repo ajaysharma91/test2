@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>WELCOME CRIS TECH!!!</h2>
+<h2>WELCOME CRIS!!!</h2>
 </body>
 </html>
